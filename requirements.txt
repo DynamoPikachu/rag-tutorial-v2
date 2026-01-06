@@ -3,3 +3,8 @@ langchain
 chromadb # Vector storage
 pytest
 boto3
+langchain-ollama
+langchain-core
+langchain-chroma
+langchain-text-splitters
+langchain-community
